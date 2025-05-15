@@ -19,7 +19,6 @@ export default function App() {
       <Portfolio />
       <Skills />
       <Contact />
-      <Footer />
     </div>
   );
 }
