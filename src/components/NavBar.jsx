@@ -14,7 +14,7 @@ const NavBar = () => {
   return (
     <div className="flex justify-between items-center w-full h-20 bg-black text-white fixed px-4 z-50">
       <div>
-        <h1 className="text-4xl md:text-5xl font-logo bg-gradient-to-r from-cyan-400 to-blue-500 bg-clip-text text-transparent">
+        <h1 className="text-4xl md:text-5xl font-logo bg-gradient-to-r from-cyan-400 to-blue-500 bg-clip-text text-transparent cursor-pointer">
           @
         </h1>
       </div>
